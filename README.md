@@ -35,8 +35,7 @@
 
 ## Deployment Methods
 ---
-1. ***Get [`SESSION ID`](https://blade-md-qr.onrender.com)  by scanning QR code. `Whatapp>Three dots>Linked Devices`***
-##
+1. ***Get [`SESSION ID`](https://secret-plateau-39898-43273a7c97e1.herokuapp.com//) [`SESSION ID 2`](https://blade-0wz6.onrender.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
    
 # ```EXTERNAL STUFF AND API```
 
@@ -48,7 +47,7 @@
 
 # ```PUBLIC MONGODB URI```
 ```
-mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.services.clever-cloud.com:2791/bupt7kruqljyivftjl4i
+mongodb+srv://ahil1:787191784abhi@ahil1.kzr1tt3.mongodb.net/?retrywrites=true&w=majority
 ```
 
  # Deploy METHOD
@@ -161,6 +160,12 @@ mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.
 </details>
 
 <br>
+**Buy Me a Coffee**: Your support will help me continue working on advancing and adding more features to the bot thank you
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/bladehx">
+  <img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
+</a>
+
 
  # BLADE MD SUPPORT
  
